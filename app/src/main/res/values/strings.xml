@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="registration_label">登録</string>
+    <string name="listing_label">一覧表示</string>
+    <string name="title_label_text">タイトル</string>
+    <string name="content_label_text">内容</string>
+    <string name="title_edit_text">タイトルを入力してください</string>
+    <string name="content_edit_text">内容を入力してください</string>
+    <string name="label_back">キャンセル</string>
+    <string name="label_update">追加</string>
+    <string name="error_label">エラーが発生しました</string>
+    <string name="empty_data">データがありません</string>
+</resources>
